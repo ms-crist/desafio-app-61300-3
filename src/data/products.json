@@ -1,0 +1,99 @@
+[
+    {
+      "id": "1",
+      "title": "iPhone 12",
+      "price": "999",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "images": "iphone12.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Galaxy S21",
+      "price": "799",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "images": "galaxys21.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Pixel 5",
+      "price": "699",
+      "category": "Smartphone",
+      "brand": "Google",
+      "images": "pixel5.jpg"
+    },
+    {
+      "id": "4",
+      "title": "OnePlus 9",
+      "price": "729",
+      "category": "Smartphone",
+      "brand": "OnePlus",
+      "images": "oneplus9.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Mi 11",
+      "price": "699",
+      "category": "Smartphone",
+      "brand": "Xiaomi",
+      "images": "mi11.jpg"
+    },
+    {
+      "id": "6",
+      "title": "ROG Phone 5",
+      "price": "999",
+      "category": "Smartphone",
+      "brand": "Asus",
+      "images": "rogphone5.jpg"
+    },
+  {
+    "id": "7",
+    "title": "Dell XPS 13",
+    "price": "1099",
+    "category": "Laptop",
+    "brand": "Dell",
+    "images": "image1.jpg"
+  },
+  {
+    "id": "8",
+    "title": "MacBook Pro",
+    "price": "1299",
+    "category": "Laptop",
+    "brand": "Apple",
+    "images": "image2.jpg"
+  },
+  {
+    "id": "9",
+    "title": "HP Spectre x360",
+    "price": "999",
+    "category": "Laptop",
+    "brand": "HP",
+    "images": "image3.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Lenovo ThinkPad X1 Carbon",
+    "price": "1499",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "images": "image4.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Asus ZenBook 14",
+    "price": "899",
+    "category": "Laptop",
+    "brand": "Asus",
+    "images": "image5.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Acer Swift 3",
+    "price": "699",
+    "category": "Laptop",
+    "brand": "Acer",
+    "images": "image6.jpg"
+  }
+]
+    
