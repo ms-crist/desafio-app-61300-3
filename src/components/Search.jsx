@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "center",
     alignItems: "center",
-    width: "70%",
+    width: "90%",
     paddingTop: 10,
   },
   input: {
@@ -63,5 +63,5 @@ const styles = StyleSheet.create({
     width: "80%",
     fontSize: 20,
     backgroundColor: colors.white_200
-  },
+  }
 });
