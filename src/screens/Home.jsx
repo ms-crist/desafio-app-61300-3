@@ -1,7 +1,7 @@
-import { Text, View, StyleSheet } from "react-native";
+import {View, StyleSheet } from "react-native";
 import Header from "../components/Header";
 import Categories from "../components/Categories";
-import Footer from "../components/Footer";
+import Footer from "../components/FooterApp";
 import { colors } from "../global/colors";
 
 
@@ -11,9 +11,7 @@ function Home({setCategorySelected}) {
     <View style={styles.container}>
       <Header title={"Inicio"}/>
       <Categories setCategorySelected={setCategorySelected}/>
-      <View style={{width: '100%'}}>
-     <Footer/>
-     </View>
+      <Footer/>
     </View>
   );
 }

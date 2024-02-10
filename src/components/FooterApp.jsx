@@ -16,7 +16,8 @@ export default Footer;
 
 const styles = StyleSheet.create({
  container: {
-    marginTop: 170,
+  width: '100%',
+    marginTop: 200,
     flexDirection: 'row',
     backgroundColor: colors.green_400,
     justifyContent: "center",

@@ -2,6 +2,8 @@ import { useState } from "react";
 import { Pressable, StyleSheet, Text, TextInput, View } from "react-native";
 import { AntDesign } from "@expo/vector-icons";
 import { Entypo } from "@expo/vector-icons";
+import { colors } from "../global/colors";
+
 
 const Search = ({ onSearch }) => {
   const [input, setInput] = useState("");
@@ -45,12 +47,13 @@ const styles = StyleSheet.create({
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "flex-start",
+    backgroundColor: colors.green_300
   },
   inputContainer: {
     flexDirection: "row",
-    justifyContent: "space-between",
+    justifyContent: "center",
     alignItems: "center",
-    width: "90%",
+    width: "70%",
     paddingTop: 10,
   },
   input: {
@@ -59,5 +62,6 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     width: "80%",
     fontSize: 20,
+    backgroundColor: colors.white_200
   },
 });
